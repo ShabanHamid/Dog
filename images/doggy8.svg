@@ -1,0 +1,14 @@
+<svg id="BrandLogo_Vov_Black" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="114" height="34.912" viewBox="0 0 114 34.912">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_738" data-name="Rectangle 738" width="114" height="34.912" fill="#111"/>
+    </clipPath>
+  </defs>
+  <path id="Path_450" data-name="Path 450" d="M11.937,35.159H27.592L39.229.554H24.953l-5.1,18.577L14.828.506,0,.493Z" transform="translate(0 -0.295)" fill="#111"/>
+  <path id="Path_451" data-name="Path 451" d="M194.63,35.059h15.656L221.922.454H207.646l-5.1,18.577L197.521.407,182.693.393Z" transform="translate(-107.922 -0.235)" fill="#111"/>
+  <g id="Group_1748" data-name="Group 1748" transform="translate(0 0)">
+    <g id="Group_1747" data-name="Group 1747" clip-path="url(#clip-path)">
+      <path id="Path_452" data-name="Path 452" d="M111.036,0C100.093,0,91.223,7.816,91.223,17.456s8.87,17.456,19.813,17.456,19.813-7.815,19.813-17.456S121.978,0,111.036,0m0,25.593c-2.736,0-4.953-3.609-4.953-8.06s2.218-8.059,4.953-8.059,4.953,3.609,4.953,8.059-2.218,8.06-4.953,8.06" transform="translate(-54.124 0)" fill="#111"/>
+    </g>
+  </g>
+</svg>
